@@ -1,6 +1,7 @@
 ﻿# _
 
 ¡Hola, bienvenido a la Universidad del Norte!, yo soy ___, tú asistente en este trayecto para completar y finalizar con éxito tú proceso de matrícula.
+
 ¿Hay algo en lo que pueda ayudarte?
 
 ## ERROR 
@@ -73,30 +74,30 @@ En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
 - Ingeniería Industrial
 - Ingeniería Mecánica
 - Ingeniería de Sistemas
-- Ingeniería Química
+- Ingeniería Eléctrica
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Civil?
-En el programa de Ingeniería Civil en Barranquilla el valor es de 13,478,200$ de pesos, semestral.
+En el programa de Ingeniería Civil en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Electrónica?
-En el programa de Ingeniería Electrónica en Barranquilla el valor es de 14,190,500$ de pesos, semestral.
+En el programa de Ingeniería Electrónica en Barranquilla el valor es de **13,194,900$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Industrial?
-En el programa de Ingeniería Industrial en Barranquilla el valor es de 12,876,300$ de pesos, semestral.
+En el programa de Ingeniería Industrial en Barranquilla el valor es de **14,192,200$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Mecánica?
-En el programa de Ingeniería Mecánica en Barranquilla el valor es de 14,878,900$ de pesos, semestral.
+En el programa de Ingeniería Mecánica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería de Sistemas?
-En el programa de Ingeniería de Sistemas en Barranquilla el valor es de 13,789,000$ de pesos, semestral.
+En el programa de Ingeniería de Sistemas en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Química?
-En el programa de Ingeniería Química en Barranquilla el valor es de 14,450,300$ de pesos, semestral.
+## ¿Cuál es el precio de la matrícula del programa de Ingeniería Eléctrica?
+En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
