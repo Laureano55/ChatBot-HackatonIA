@@ -103,7 +103,93 @@ En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,57
 ## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
 En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
-## ¿Cuál es el precio de la matrícula del pregrado, en el programa de 
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
+En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Diviíon de Ciencias Básicas?
+- Matemáticas	Barranquilla	$6,953,900	Semestral.
+- Geología	Barranquilla	$11,369,100	Semestral.
+- Ciencia de los Datos	Barranquilla	$11,576,700	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es precio de la matrícula del pregrado, en el progrma de Geología?
+El programa de Geología en Barranquilla tiene un valor de **$11,369,100** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la maatrícula del pregrado, en el programa de Ciencia de los Datos?
+El programa de Ciencia de los Datos en Barranquilla tiene un valor de **$11,576,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Div Derecho, Cs Pol y Rel Int?
+- Relaciones Internacionales	Barranquilla	$10,808,300	Semestral.
+- Derecho	Barranquilla	$11,447,500	Semestral.
+- Ciencia Política y Gobierno	Barranquilla	$11,232,500	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Relaciones Internacionales?
+En programa de Relaciones Internacionales en Brranquilla tiene un valor de **$10,808,300** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Derecho?
+En el programa de Derecho en Barranquilla el valor es de **$11,447,500** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ciencia Política y Gobierno?
+En el programa de Ciencia Política y Gobierno en Barranquilla el valor es de **$11,232,500** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la División Hum. y Cs. Sociales?
+- Psicología	Barranquilla	$10,213,700	Semestral.
+- Filosofía y Humanidades	Barranquilla	$5,899,700	Semestral.
+- Economía	Barranquilla	$10,705,900	Semestral.
+- Comunicación Social	Barranquilla	$10,213,700 semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es precio de la matrícula del pregrado, en el programa de Psicología?
+En el programa de Psicología en Barranquilla el valor es de **$10,213,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de  Filosofía y Humanidades?
+En el programa de Filosofía y Humanidades en Barranquilla el valor es de **$5,899,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Economía?
+En el programa de Economía	en Brranquilla el valor es de **$10,705,900** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de  Comunicación Social?
+En el programa de  Comunicación Social	en Barranquilla el valor es de	**$10,213,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+
+
+
+## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
+El proceso de inscripción para estudiantes internacionales incluye:
+1. Diligenciar el formulario de inscripción en línea.
+2. Adjuntar copia del pasaporte.
+3. Presentar el examen de admisión o prueba equivalente.
+4. Enviar las notas de los dos últimos años cursados.
+5. Adjuntar una carta de recomendación.
+
+## ¿Qué documentos necesito para inscribirme como estudiante de transferencia?
+Para inscribirte como estudiante de transferencia necesitas:
+1. Diligenciar el formulario de inscripción en línea.
+2. Certificado de notas de la institución anterior.
+3. Plan de estudios y contenidos programáticos de las asignaturas cursadas.
+4. Carta de buena conducta de la institución anterior.
+
+## ¿Cuál es el proceso para solicitar una beca?
+Para solicitar una beca en la Universidad del Norte debes:
+1. Diligenciar el formulario de inscripción y seleccionar la opción de beca.
+2. Adjuntar el certificado de notas de los dos últimos años cursados.
+3. Presentar una carta de motivación.
+4. Adjuntar cartas de recomendación de docentes.
+5. Participar en la entrevista de selección.
+
+## ¿Cuáles son las becas disponibles en la Universidad del Norte?
+La Universidad del Norte ofrece las siguientes becas:
+- Beca por Excelencia Académica
 
 
 ## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
