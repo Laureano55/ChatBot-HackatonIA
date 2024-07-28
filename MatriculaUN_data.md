@@ -77,27 +77,27 @@ En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
 - Ingeniería Eléctrica
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Civil?
-En el programa de Ingeniería Civil en Barranquilla el valor es de 11,576,700$ de pesos, semestral.
+En el programa de Ingeniería Civil en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Electrónica?
-En el programa de Ingeniería Electrónica en Barranquilla el valor es de 13,194,900$ de pesos, semestral.
+En el programa de Ingeniería Electrónica en Barranquilla el valor es de **13,194,900$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Industrial?
-En el programa de Ingeniería Industrial en Barranquilla el valor es de 14,192,200$ de pesos, semestral.
+En el programa de Ingeniería Industrial en Barranquilla el valor es de **14,192,200$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Mecánica?
-En el programa de Ingeniería Mecánica en Barranquilla el valor es de 11,576,700$ de pesos, semestral.
+En el programa de Ingeniería Mecánica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería de Sistemas?
-En el programa de Ingeniería de Sistemas en Barranquilla el valor es de 11,576,700$ de pesos, semestral.
+En el programa de Ingeniería de Sistemas en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Ingeniería Eléctrica?
-En el programa de Ingeniería Eléctrica en Barranquilla el valor es de 11,576,700$ de pesos, semestral.
+En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
