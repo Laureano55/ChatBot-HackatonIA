@@ -25,16 +25,16 @@ Los requisitos para inscribirte son: ser bachiller o estar próximo a graduarte,
 [Acceso a Admisiones (uninorte.edu.co)](https://pomelo.uninorte.edu.co/pls/prod/bwskalog.P_DispLoginNon) 
 A su vez, se debe adjuntar las notas de los dos últimos años cursados. 
 
-## ¿Cuál es el precio de la matrícula del programa de Negocios Internacionales? ¿Cuánto cobran en el programa de Negocios Internacionales?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Negocios Internacionales? ¿Cuánto cobran en el programa de Negocios Internacionales?
 
 En el programa de Negocios Internacionales en Barranquilla el valor es de **15,285,100$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Contaduría Pública? ¿Cuánto cobran en el programa de Contaduría Pública?
+## ¿Cuál es el precio de la matrícula del pregrdo, en el programa de Contaduría Pública? ¿Cuánto cobran en el programa de Contaduría Pública?
 En el programa de Contaduría Pública en Barranquilla el valor es de **6,776,400$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Administración de Empresas? ¿Cuánto cobran en el programa de Administración de Empresas?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Administración de Empresas? ¿Cuánto cobran en el programa de Administración de Empresas?
 En el programa de Administración de Empresas en Barranquilla el valor es de **13,735,000$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
@@ -45,17 +45,17 @@ Los programas que ofrece la escuela de Negocios son:
  - Administración de Empresas en $13,735,000, semestral.
 (Estos valores tienen vigencia hasta 202410) 
 
-## ¿Cuál es el precio de la matrícula del programa de Arquitectura? ¿Cuánto cobran en el programa de Arquitectura?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Arquitectura? ¿Cuánto cobran en el programa de Arquitectura?
 En el programa de Arquitectura en Barranquilla el valor es de **14,173,000$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 
-## ¿Cuál es el precio de la matrícula del programa de Diseño Gráfico? ¿Cuánto cobran en el programa de Diseño Gráfico?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Diseño Gráfico? ¿Cuánto cobran en el programa de Diseño Gráfico?
 En el programa de Diseño Gráfico en Barranquilla el valor es de **11,3878,800$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 
-## ¿Cuál es el precio de la matrícula del programa de Diseño Industrial? ¿Cuánto cobran en el programa de Diseño Industrial?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Diseño Industrial? ¿Cuánto cobran en el programa de Diseño Industrial?
 En el programa de Diseño Industrial en Barranquilla el valor es de **14,038,600** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
@@ -76,29 +76,35 @@ En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
 - Ingeniería de Sistemas
 - Ingeniería Eléctrica
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Civil?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Civil?
 En el programa de Ingeniería Civil en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Electrónica?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Electrónica?
 En el programa de Ingeniería Electrónica en Barranquilla el valor es de **13,194,900$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Industrial?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Industrial?
 En el programa de Ingeniería Industrial en Barranquilla el valor es de **14,192,200$** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Mecánica?
-En el programa de Ingeniería Mecánica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Mecánica?
+En el programa de Ingeniería Mecánica en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería de Sistemas?
-En el programa de Ingeniería de Sistemas en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería de Sistemas?
+En el programa de Ingeniería de Sistemas en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del programa de Ingeniería Eléctrica?
-En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Eléctrica?
+En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
+En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de 
+
 
 ## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
 El proceso de inscripción para estudiantes internacionales incluye:
