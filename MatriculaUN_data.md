@@ -1,6 +1,6 @@
 ﻿# _
 
-¡Hola, bienvenido a la Universidad del Norte!, yo soy ___, tú asistente en este trayecto para completar y finalizar con éxito tú proceso de matrícula.
+¡Hola, bienvenido a la Universidad del Norte!, yo soy Sofía, tú asistente en este trayecto para completar y finalizar con éxito tú proceso de matrícula.
 
 ¿Hay algo en lo que pueda ayudarte?
 

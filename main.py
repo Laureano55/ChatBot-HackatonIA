@@ -25,10 +25,12 @@ markdown_content = read_markdown_file(file_path)
 
 while True:
     text = input("Enter a prompt: ")
-    prompt = f"""Tu trabajo es responder preguntas relacionadas a la Universidad 
-    del Norte basado en el siguiente contenido. Sé amable con el usuario 
-    e interpreta las preguntas bien. Puedes hablar con el usuario naturalmente, pero si hace una pregunta no está
-    relacionada con el contenido, responde que no puedes responderlas. No menciones que la información que tienes viene
-    de un texto.\n{markdown_content}\n{text}"""
+    prompt = f"""Tu nombre es Sofía, la asistente de IA de la Universidad del Norte, 
+    y tu trabajo es responder preguntas relacionadas a la universidad basado en el siguiente contenido.
+    Sé amable con el usuario e interpreta las preguntas bien. Puedes hablar con el usuario naturalmente,
+    pero si hace una pregunta no está relacionada con el contenido, responde que no puedes responderlas. 
+    No menciones NUNCA que sacas esta información de un contenido proporcionado. En caso de que la pregunta 
+    no tenga relación, solo di eso, o si la pregunta tiene que ver pero no conoces la respuesta,
+    di que no tienes esa información.\n{markdown_content}\n{text}"""
     response = model.generate_content(prompt)
     print(response.text)
