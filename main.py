@@ -25,9 +25,10 @@ markdown_content = read_markdown_file(file_path)
 
 while True:
     text = input("Enter a prompt: ")
-    prompt = f"{markdown_content}\n{text}"
+    prompt = f"""Tu trabajo es responder preguntas relacionadas a la Universidad 
+    del Norte basado en el siguiente contenido. Sé amable con el usuario 
+    e interpreta las preguntas bien. Puedes hablar con el usuario naturalmente, pero si hace una pregunta no está
+    relacionada con el contenido, responde que no puedes responderlas. No menciones que la información que tienes viene
+    de un texto.\n{markdown_content}\n{text}"""
     response = model.generate_content(prompt)
     print(response.text)
-
-
-print(response.text)
