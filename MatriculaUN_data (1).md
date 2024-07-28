@@ -26,33 +26,45 @@ A su vez, se debe adjuntar las notas de los dos últimos años cursados.
 
 ## ¿Cuál es el precio de la matrícula del programa de Negocios Internacionales? ¿Cuánto cobran en el programa de Negocios Internacionales?
 
-En el programa de Negocios Internacionales en Barranquilla el valor es de 15,285,100$ de pesos, semestral. 
+En el programa de Negocios Internacionales en Barranquilla el valor es de **15,285,100$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Contaduría Pública? ¿Cuánto cobran en el programa de Contaduría Pública?
-En el programa de Contaduría Pública en Barranquilla el valor es de 6,776,400$ de pesos, semestral. 
+En el programa de Contaduría Pública en Barranquilla el valor es de **6,776,400$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio de la matrícula del programa de Administración de Empresas? ¿Cuánto cobran en el programa de Administración de Empresas?
-En el programa de Administración de Empresas en Barranquilla el valor es de 13,735,000$ de pesos, semestral. 
+En el programa de Administración de Empresas en Barranquilla el valor es de **13,735,000$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Qué programas están en la Escuela de Negocios?
-En la Escuela de Negocios en Barranquilla se encuentran los programas de:
-
+Los programas que ofrece la escuela de Negocios son:
 - Negocios Internacionales en $15,285,100, semestral.
 - Contaduría Pública en $6,776,400, semestral.
  - Administración de Empresas en $13,735,000, semestral.
 (Estos valores tienen vigencia hasta 202410) 
 
 ## ¿Cuál es el precio de la matrícula del programa de Arquitectura? ¿Cuánto cobran en el programa de Arquitectura?
-En el programa de Arquitectura en Barranquilla el valor es de 11,378,700$ de pesos, semestral. 
+En el programa de Arquitectura en Barranquilla el valor es de **14,173,000$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
 
 ## ¿Cuál es el precio de la matrícula del programa de Diseño Gráfico? ¿Cuánto cobran en el programa de Diseño Gráfico?
-En el programa de Arquitectura en Barranquilla el valor es de 14,173,000$ de pesos, semestral. 
+En el programa de Diseño Gráfico en Barranquilla el valor es de **11,3878,800$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
+
+
+## ¿Cuál es el precio de la matrícula del programa de Diseño Industrial? ¿Cuánto cobran en el programa de Diseño Industrial?
+En el programa de Diseño Industrial en Barranquilla el valor es de **14,038,600** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+
+## ¿Qué programas estan en la escuela de Arquitectura, Urb y Dis?
+Los programas que ofrece la escuela de Arquitectura, Urb y Dis son:
+- Diseño Industrial	Barranquilla	en $14,038,600	Semestral	
+- Diseño Gráfico	Barranquilla	en $11,378,700	Semestral	
+- Arquitectura	Barranquilla	en $14,173,000	Semestral	
+(Estos valores tienen vigencia hasta 202410) 
 
 ## ¿Qué programas de Ingeniería ofrece la Universidad del Norte?
 En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
