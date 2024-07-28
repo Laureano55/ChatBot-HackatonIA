@@ -180,6 +180,33 @@ En el programa de Medicina	en Barranquilla el valor es de	**$24,113,300** en pes
 En el programa de Enfermería	en Barranquilla el valor es de	**$7,018,300** de pesos,	Semestrales.
 (Este valor tiene vigencia hasta 202410)
 
+## ¿Cuáles son los programas que ofrece El Instituto de Idiomas?
+- lenguas Modernas y Cultura	Barranquilla	$10,808,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio del pregrado, en el programa de lenguas Modernas y Cultura?
+En el programa de lenguas Modernas y Cultura en	Barranquilla el valor es de	**$10,808,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece el IESE-inst.de Estudios en Educ.?
+- lenguas Modernas y Cultura	Barranquilla	$10,808,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de lenguas Modernas y Cultura?
+En el programa de lenguas Modernas y Cultura	en Barranquilla el valor es de	**$10,808,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Vicerrectoría Académica?
+- Música	Barranquilla	$11,484,800	Semestral.
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Música?
+En el programa de Música	en Barranquilla el valor es de	**$11,484,800** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410
+
+
+
+
+
+
 
 
   
