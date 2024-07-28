@@ -200,7 +200,178 @@ En el programa de lenguas Modernas y Cultura	en Barranquilla el valor es de	**$1
 - Música	Barranquilla	$11,484,800	Semestral.
 ## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Música?
 En el programa de Música	en Barranquilla el valor es de	**$11,484,800** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del posgrado, en el programa de Negocios Internacionales? ¿Cuánto cobran en el programa de Negocios Internacionales?
+
+En el programa de Negocios Internacionales en Barranquilla el valor es de **21,597,200** de pesos, semestral. 
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del posgrado, en el programa de ESP. Gcia. Pública? ¿Cuánto cobran en el programa de Esp. Gcia. Píblica?
+En el programa de Contaduría Pública en Barranquilla el valor es de **18,689,900** de pesos, semestral. 
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del posgrado, en el programa de Maest. Admon. Empresas? ¿Cuánto cobran en el programa de Maest. Admon. Empresas?
+En el programa de Administración de Empresas en Barranquilla el valor es de **21,597,200** de pesos, semestral. 
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del posgrado, en el programa de Arquitectura? ¿Cuánto cobran en el programa de Arquitectura?
+En el programa de Arquitectura en Barranquilla el valor es de **14,173,000$** de pesos, semestral. 
+(Este valor tiene vigencia hasta 202410)
+
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Diseño Gráfico? ¿Cuánto cobran en el programa de Diseño Gráfico?
+En el programa de Diseño Gráfico en Barranquilla el valor es de **11,3878,800$** de pesos, semestral. 
+(Este valor tiene vigencia hasta 202410)
+
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Diseño Industrial? ¿Cuánto cobran en el programa de Diseño Industrial?
+En el programa de Diseño Industrial en Barranquilla el valor es de **14,038,600** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+
+## ¿Qué programas estan en la escuela de Arquitectura, Urb y Dis?
+Los programas que ofrece la escuela de Arquitectura, Urb y Dis son:
+- Diseño Industrial	Barranquilla	en $14,038,600	Semestral	
+- Diseño Gráfico	Barranquilla	en $11,378,700	Semestral	
+- Arquitectura	Barranquilla	en $14,173,000	Semestral	
+(Estos valores tienen vigencia hasta 202410) 
+
+## ¿Qué programas de Ingeniería ofrece la Universidad del Norte?
+En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
+- Ingeniería Civil <br>
+- Ingeniería Electrónica <br>
+- Ingeniería Industrial <br>
+- Ingeniería Mecánica <br>
+- Ingeniería de Sistemas <br>
+- Ingeniería Eléctrica <br>
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Civil?
+En el programa de Ingeniería Civil en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Electrónica?
+En el programa de Ingeniería Electrónica en Barranquilla el valor es de **13,194,900$** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Industrial?
+En el programa de Ingeniería Industrial en Barranquilla el valor es de **14,192,200$** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Mecánica?
+En el programa de Ingeniería Mecánica en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería de Sistemas?
+En el programa de Ingeniería de Sistemas en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Eléctrica?
+En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,576,700** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
+En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Diviíon de Ciencias Básicas?
+- Matemáticas	Barranquilla	$6,953,900	Semestral.
+- Geología	Barranquilla	$11,369,100	Semestral.
+- Ciencia de los Datos	Barranquilla	$11,576,700	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es precio de la matrícula del pregrado, en el progrma de Geología?
+El programa de Geología en Barranquilla tiene un valor de **$11,369,100** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la maatrícula del pregrado, en el programa de Ciencia de los Datos?
+El programa de Ciencia de los Datos en Barranquilla tiene un valor de **$11,576,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Div Derecho, Cs Pol y Rel Int?
+- Relaciones Internacionales	Barranquilla	$10,808,300	Semestral.
+- Derecho	Barranquilla	$11,447,500	Semestral.
+- Ciencia Política y Gobierno	Barranquilla	$11,232,500	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Relaciones Internacionales?
+En programa de Relaciones Internacionales en Brranquilla tiene un valor de **$10,808,300** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Derecho?
+En el programa de Derecho en Barranquilla el valor es de **$11,447,500** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ciencia Política y Gobierno?
+En el programa de Ciencia Política y Gobierno en Barranquilla el valor es de **$11,232,500** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la División Hum. y Cs. Sociales?
+- Psicología	Barranquilla	$10,213,700	Semestral.
+- Filosofía y Humanidades	Barranquilla	$5,899,700	Semestral.
+- Economía	Barranquilla	$10,705,900	Semestral.
+- Comunicación Social	Barranquilla	$10,213,700 semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es precio de la matrícula del pregrado, en el programa de Psicología?
+En el programa de Psicología en Barranquilla el valor es de **$10,213,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de  Filosofía y Humanidades?
+En el programa de Filosofía y Humanidades en Barranquilla el valor es de **$5,899,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Economía?
+En el programa de Economía	en Brranquilla el valor es de **$10,705,900** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de  Comunicación Social?
+En el programa de  Comunicación Social	en Barranquilla el valor es de	**$10,213,700** de pesos, semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la División Ciencias de la salud?
+- Odontología	Barranquilla	$16,505,900	Semestral.	
+- Medicina	Barranquilla	$24,113,300	Semestral.	
+- Enfermería	Barranquilla	$7,018,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Odontología?
+En el programa de Odontología en	Barranquilla el valor es de	**$16,505,900** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del programa Medicina?
+En el progrma de Medicina	en Barranquillael valor es de	**$24,113,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula de pregrado, en el programa de Medicina?	
+En el programa de Medicina	en Barranquilla el valor es de	**$24,113,300** en pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula de prepago, en el programa de Enfermería?
+En el programa de Enfermería	en Barranquilla el valor es de	**$7,018,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece El Instituto de Idiomas?
+- lenguas Modernas y Cultura	Barranquilla	$10,808,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio del pregrado, en el programa de lenguas Modernas y Cultura?
+En el programa de lenguas Modernas y Cultura en	Barranquilla el valor es de	**$10,808,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece el IESE-inst.de Estudios en Educ.?
+- lenguas Modernas y Cultura	Barranquilla	$10,808,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de lenguas Modernas y Cultura?
+En el programa de lenguas Modernas y Cultura	en Barranquilla el valor es de	**$10,808,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la Vicerrectoría Académica?
+- Música	Barranquilla	$11,484,800	Semestral.
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Música?
+En el programa de Música	en Barranquilla el valor es de	**$11,484,800** de pesos,	Semestrales.
 (Este valor tiene vigencia hasta 202410
+
 
 
 
