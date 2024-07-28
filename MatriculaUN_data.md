@@ -103,9 +103,6 @@ En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,57
 ## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
 En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
-## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Matemáticas? 
-En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
-(Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuáles son los programas que ofrece la Diviíon de Ciencias Básicas?
 - Matemáticas	Barranquilla	$6,953,900	Semestral.
@@ -160,6 +157,33 @@ En el programa de Economía	en Brranquilla el valor es de **$10,705,900** de pes
 ## ¿Cuál es el precio de la matrícula del pregrado, en el programa de  Comunicación Social?
 En el programa de  Comunicación Social	en Barranquilla el valor es de	**$10,213,700** de pesos, semestrales.
 (Este valor tiene vigencia hasta 202410)
+
+## ¿Cuáles son los programas que ofrece la División Ciencias de la salud?
+- Odontología	Barranquilla	$16,505,900	Semestral.	
+- Medicina	Barranquilla	$24,113,300	Semestral.	
+- Enfermería	Barranquilla	$7,018,300	Semestral.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Odontología?
+En el programa de Odontología en	Barranquilla el valor es de	**$16,505,900** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula del programa Medicina?
+En el progrma de Medicina	en Barranquillael valor es de	**$24,113,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula de pregrado, en el programa de Medicina?	
+En el programa de Medicina	en Barranquilla el valor es de	**$24,113,300** en pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+## ¿Cuál es el precio de la matrícula de prepago, en el programa de Enfermería?
+En el programa de Enfermería	en Barranquilla el valor es de	**$7,018,300** de pesos,	Semestrales.
+(Este valor tiene vigencia hasta 202410)
+
+
+
+  
+
 
 
 
