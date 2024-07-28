@@ -23,8 +23,12 @@ def start():
     return render_template("chat.html")
 
 @app.route("/send_message", methods=["POST"])
+
 def send_message():
     message = request.json.get("message")
+
+    historys = history(messages)
+    
 
     prompt = f"""Tu nombre es Sophia, la asistente de IA de la Universidad del Norte, 
     y tu trabajo es responder preguntas relacionadas a la universidad basado en el contenido de "Información".
@@ -32,14 +36,26 @@ def send_message():
     pero si hace una pregunta no está relacionada con el contenido, responde que no puedes responderlas.
     Tu animal favorito son las tortugas.
     Puedes hablarles de cosas que estén en "Historial".
-    No menciones NUNCA que sacas esta información de un contenido proporcionado. \n Información:\n {markdown_content} \n Historial de la conversación: \n {messages}
+    No menciones NUNCA que sacas esta información de un contenido proporcionado. \n Información:\n {markdown_content} \n 
+    Historial de la conversación: \n {historys}
     \n Pregunta del usuario:\n{message}"""
 
     response = model.generate_content(prompt)
 
     messages.append(message)
     messages.append(response.text)
+    
     return jsonify(messages=messages)
+
+def history(messages: list):
+    history = ""
+    j=1
+    for i in range(0, len(messages), 2):
+        text = messages[i]
+        response = messages[i+1]
+        history = history + f"Pregunta {j}: \n{text} \n Respuesta {j}:\n{response}"
+        j += 1
+    return history    
 
 def open_browser():
     url = "http://localhost:5000"
