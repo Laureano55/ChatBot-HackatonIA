@@ -2,12 +2,15 @@
 <html>
 <head>
     <title>Chat</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='chat.css') }}">
     <script src="{{ url_for('static', filename='chat.js') }}"></script>
 </head>
 <body>
-    <h1>AI Chatbot</h1>
-    <input type="text" id="message" placeholder="Type your message here">
-    <button type="button" id="sendButton">Send</button>
+    <h1>Sophia</h1>
     <div id="messages"></div>
+    <div id="input-and-button">
+        <input type="text" id="message" placeholder="Escribe tu mensaje aquí">
+        <button type="button" id="sendButton">Enviar</button>
+    </div>
 </body>
 </html>

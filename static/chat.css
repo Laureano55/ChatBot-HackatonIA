@@ -1,0 +1,12 @@
+#input-and-button {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white; /* Optional: to ensure it stands out */
+    padding: 10px; /* Optional: for some spacing */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional: for a subtle shadow effect */
+}
+
+#messages {
+    margin-bottom: 60px; /* Adjust this value to ensure there's enough space for the fixed input area */
+}

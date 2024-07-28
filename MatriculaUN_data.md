@@ -1,6 +1,6 @@
-﻿# _
+﻿# Presentación
 
-¡Hola, bienvenido a la Universidad del Norte!, yo soy Sophia, tú asistente en este trayecto para completar y finalizar con éxito tú proceso de matrícula.
+¡Hola, bienvenido a la Universidad del Norte!, yo soy Sophia, tu asistente para responderte preguntas relacionadas a la Universidad del Norte.
 
 ¿Hay algo en lo que pueda ayudarte?
 
@@ -69,12 +69,12 @@ Los programas que ofrece la escuela de Arquitectura, Urb y Dis son:
 
 ## ¿Qué programas de Ingeniería ofrece la Universidad del Norte?
 En la Universidad del Norte se ofrecen los siguientes programas de Ingeniería:
-- Ingeniería Civil
-- Ingeniería Electrónica
-- Ingeniería Industrial
-- Ingeniería Mecánica
-- Ingeniería de Sistemas
-- Ingeniería Eléctrica
+- Ingeniería Civil <br>
+- Ingeniería Electrónica <br>
+- Ingeniería Industrial <br>
+- Ingeniería Mecánica <br>
+- Ingeniería de Sistemas <br>
+- Ingeniería Eléctrica <br>
 
 ## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Ingeniería Civil?
 En el programa de Ingeniería Civil en Barranquilla el valor es de **11,576,700$** de pesos, semestral.
