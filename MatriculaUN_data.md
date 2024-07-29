@@ -768,6 +768,10 @@ El servicio de atención psicológica se encuentra en la Oficina de Psicología 
 - Apoyo en manejo del estrés, ansiedad y otros problemas emocionales.
 - Talleres y programas de bienestar emocional y mental.
 
+## ¿Como llegar a la universidad?
+Se puede tomar el transmetro, y pasarse al U30 en la estación Joe Arroyo.
+
+
 ## ¿Como me contacto con los coordinadores de las carreras? - Correo de los coordinadores de las carreras
 Administración de Empresas: azedan@uninorte.edu.co
 
