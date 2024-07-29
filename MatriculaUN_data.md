@@ -754,7 +754,46 @@ Las oportunidades de intercambio cultural están disponibles a través de:
 - Asociaciones y clubes estudiantiles enfocados en la cultura y la internacionalización.
 
 ## ¿Dónde se encuentra "cualquier lugar de la univerdad"?
-¡Aquí tienes un mapa de la universidad para ubicarte!
+¡Aquí tienes un mapa de la universidad para ubicarte! ¡El lugar que buscas es el número (buscar en "números de los lugares en el mapa")!
+
+## Números de los lugares en el mapa
+
+"Biblioteca Karl C. Parrish": 1,
+"Bloque A": 2,
+"Bloque Administrativo I": 3,
+"Bloque Administrativo II": 4,
+"Bloque B": 5,
+"Bloque C": 6,
+"Bloque D": 7,
+"Bloque E": 8,
+"Bloque F": 9,
+"Bloque G. Edificio Postgrados": 10,
+"Bloque I. Instituto de Idiomas": 11,
+"Bloque J": 12,
+"Bloque K. Edificio de Ingenierías": 13,
+"Bloque L. Edificio Julio Muvdi": 14,
+"Bloque M": 15,
+"Laboratorio de Arquitectura Tropical": 16,
+"Laboratorio de Energías Renovables": 17,
+"Bloque de Salud": 18,
+"Canchas Múltiples": 19,
+"Coliseo Cultural y Deportivo Los Fundadores": 20,
+"Parqueadero administrativo principal": 21,
+"Parqueadero Bloque C": 22,
+"Parqueadero Bloque J": 23,
+"Parqueadero canchas de futbol": 24,
+"Parqueadero Coliseo": 25,
+"Parqueadero Edificio Postgrados": 26,
+"Parqueadero 10": 27,
+"DuNord Café": 28,
+"DuNord Express": 29,
+"DuNord Graphique": 30,
+"DuNord Plaza": 31,
+"DuNord Terrasse": 32,
+"Iwanna Store": 33,
+"Km5": 34,
+"Le Salon": 35,
+"Restaurante 1966": 36
 
 ## ¿Dónde se encuentra el servicio de atención psicológica y qué servicios ofrecen?
 El servicio de atención psicológica se encuentra en la Oficina de Psicología y ofrece:
