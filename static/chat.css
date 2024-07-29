@@ -7,14 +7,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-#chat-container {
-    width: 100%;
-    max-width: 800px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 #title {
     width: 100%;
     text-align: center;
@@ -26,11 +18,28 @@ body {
     z-index: 1000;
 }
 
+#sophia-logo {
+    max-width: 10%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#chat-container {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
 #messages {
     width: 100%;
-    max-height: 400px; /* Adjust the height as needed */
+    max-height: 550px;
     overflow-y: auto;
-    margin-bottom: 60px; /* Adjust this value to ensure there's enough space for the fixed input area */
+    margin-top: 50px;
+    margin-bottom: 10px;
     display: flex;
     flex-direction: column;
 }

@@ -31,9 +31,12 @@ document.addEventListener("DOMContentLoaded", function() {
             return response.json();
         })
         .then(data => {
-            // Display the AI's response
+            // Parse the markdown response to HTML
+            var htmlContent = marked(data.messages[data.messages.length - 1]);
+        
+            // Create a new div for the AI's message
             var aiMessageContainer = document.createElement("div");
-            aiMessageContainer.textContent = data.messages[data.messages.length - 1];
+            aiMessageContainer.innerHTML = htmlContent; // Use innerHTML to render the HTML content
             aiMessageContainer.style.marginTop = "10px";
             aiMessageContainer.classList.add("ai-message");
             messagesContainer.appendChild(aiMessageContainer);

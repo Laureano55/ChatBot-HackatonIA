@@ -5,18 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sophia Chat</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='chat.css') }}">
-    <script src="{{ url_for('static', filename='chat.js') }}"></script>
 </head>
 <body>
     <div id="title">
-        <img src="{{ url_for('static', filename='sophia_logo.png') }}" alt="Sophia Logo" id="sophia-logo">
+        <img src="{{ url_for('static', filename='sophia-logo.png') }}" alt="Sophia Logo" id="sophia-logo">
     </div>
     <div id="chat-container">
         <div id="messages"></div>
         <div id="input-and-button">
             <input type="text" id="message" placeholder="Escribe tu mensaje aquí...">
-            <button id="sendButton">Send</button>
+            <button id="sendButton">Enviar</button>
         </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
 </body>
 </html>
