@@ -8,8 +8,7 @@
 Lo siento, no puedo brindarte esa información. 
 
 ## ¿Cuándo se abren inscripciones?
-
-
+La fecha de apertura de las inscripciones varian año tras año, debes estar pendiente de la página oficial de la Universidad del Norte, ahí te brindarán una información más precisa!
 
 ## ¿Cuánto cuesta la inscripción?
 
@@ -30,7 +29,7 @@ A su vez, se debe adjuntar las notas de los dos últimos años cursados.
 En el programa de Negocios Internacionales en Barranquilla el valor es de **15,285,100$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuál es el precio de la matrícula del pregrdo, en el programa de Contaduría Pública? ¿Cuánto cobran en el programa de Contaduría Pública?
+## ¿Cuál es el precio de la matrícula del pregrado, en el programa de Contaduría Pública? ¿Cuánto cobran en el programa de Contaduría Pública?
 En el programa de Contaduría Pública en Barranquilla el valor es de **6,776,400$** de pesos, semestral. 
 (Este valor tiene vigencia hasta 202410)
 
@@ -104,7 +103,7 @@ En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,57
 En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuáles son los programas que ofrece la Diviíon de Ciencias Básicas?
+## ¿Cuáles son los programas que ofrece la División de Ciencias Básicas?
 - Matemáticas	Barranquilla	$6,953,900	Semestral.
 - Geología	Barranquilla	$11,369,100	Semestral.
 - Ciencia de los Datos	Barranquilla	$11,576,700	Semestral.
@@ -118,7 +117,7 @@ El programa de Geología en Barranquilla tiene un valor de **$11,369,100** de pe
 El programa de Ciencia de los Datos en Barranquilla tiene un valor de **$11,576,700** de pesos, semestrales.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuáles son los programas que ofrece la Div Derecho, Cs Pol y Rel Int?
+## ¿Cuáles son los programas que ofrece la División Derecho, Cs Pol y Rel Int?
 - Relaciones Internacionales	Barranquilla	$10,808,300	Semestral.
 - Derecho	Barranquilla	$11,447,500	Semestral.
 - Ciencia Política y Gobierno	Barranquilla	$11,232,500	Semestral.
@@ -181,7 +180,7 @@ En el programa de Enfermería	en Barranquilla el valor es de	**$7,018,300** de p
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuáles son los programas que ofrece El Instituto de Idiomas?
-- lenguas Modernas y Cultura	Barranquilla	$10,808,300	Semestral.
+- lenguas Modernas y Cultura	Barranquilla	**$10,808,300**	Semestral.
 (Este valor tiene vigencia hasta 202410)
 
 ## ¿Cuál es el precio del pregrado, en el programa de lenguas Modernas y Cultura?
@@ -252,7 +251,10 @@ Para solicitar una beca en la Universidad del Norte debes:
 ## ¿Cuáles son las becas disponibles en la Universidad del Norte?
 La Universidad del Norte ofrece las siguientes becas:
 - Beca por Excelencia Académica
-
+- Beca Deportiva
+- Beca Cultural
+- Beca por Situación Socioeconómica
+- Beca de Investigación
 
 ## ¿Cuál es el proceso de inscripción para estudiantes internacionales?
 El proceso de inscripción para estudiantes internacionales incluye:
