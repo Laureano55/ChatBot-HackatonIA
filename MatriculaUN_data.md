@@ -767,4 +767,70 @@ El servicio de atención psicológica se encuentra en la Oficina de Psicología 
 - Consultas individuales y terapia psicológica.
 - Apoyo en manejo del estrés, ansiedad y otros problemas emocionales.
 - Talleres y programas de bienestar emocional y mental.
+
+## ¿Como me contacto con los coordinadores de las carreras? - Correo de los coordinadores de las carreras
+Administración de Empresas: azedan@uninorte.edu.co
+
+Arquitectura: arquitectura@uninorte.edu.co
+
+Ciencia de Datos: esalom@uninorte.edu.co
+
+Ciencia Política y Gobierno: nescolar@uninorte.edu.co
+
+Comunicación Social y Periodismo: estefaniacepeda@uninorte.edu.co
+
+Contaduría Pública: malugo@uninorte.edu.co
+
+Derecho: jldelarosa@uninorte.edu.co - pregrado_derecho@uninorte.edu.co
+
+Diseño Gráfico: claudiao@uninorte.edu.co
+
+Diseño Industrial: rgladys@uninorte.edu.co
+
+Economía: gloriac@uninorte.edu.co
+
+Enfermería: vorjuela@uninorte.edu.co
+
+Filosofía y Humanidades: kalzamora@uninorte.edu.co
+
+Geología: gbuvoli@uninorte.edu.co
+
+Ingeniería Civil: mpacosta@uninorte.edu.co
+
+Ingeniería Eléctrica: fgisella@uninorte.edu.co
+
+Ingeniería Electrónica: aragonm@uninorte.edu.co
+
+Ingeniería Industrial:  mfpalencia@uninorte.edu.co
+
+Ingeniería Mecánica: amestre@uninorte.edu.co
+
+Ingeniería de Sistemas y Computación: lvargas@uninorte.edu.
+
+Lenguas Modernas y Cultura: marinfa@uninorte.edu.co
+
+Licenciatura en Educación Infantil: mrangel@uninorte.edu.co - educacioninfantil@uninorte.edu.co 
+
+Matemáticas: afelipe@uninorte.edu.co
+
+Medicina: ljangarita@uninorte.edu.co 
+
+Música: monicaf@uninorte.edu.co 
+
+Negocios Internacionales: nlaura@uninorte.edu.co 
+
+Odontología: nruiz@uninorte.edu.co 
+
+Psicología: ncaceres@uninorte.edu.co
+
+Relaciones Internacionales: paruiz@uninorte.edu.co
+
+
+
+
+
+
+
+
+
 ```
