@@ -103,7 +103,7 @@ En el programa de Ingeniería Eléctrica en Barranquilla el valor es de **$11,57
 En el programa de Matematicas en Barranquilla el valor es de **$6,953,900** de pesos, semestral.
 (Este valor tiene vigencia hasta 202410)
 
-## ¿Cuáles son los programas que ofrece la Diviíon de Ciencias Básicas?
+## ¿Cuáles son los programas que ofrece la División de Ciencias Básicas?
 - Matemáticas	Barranquilla	**$6,953,900** Semestral.
 - Geología	Barranquilla	**$11,369,100**	Semestral.
 - Ciencia de los Datos	Barranquilla **$11,576,700**	Semestral.
