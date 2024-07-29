@@ -6,7 +6,7 @@ Un chat en el que se podrán ver los costos, procesos, requisitos, horarios y m�
 
 Un trabajo que fue antes realizado por mentes humanas, ahora se podrá hacer con el mismo beneficio y menos esfuerzo con tan solo un click. Estamos en la era digital y nuestro trabajo ahora es entrar en la adaptación.
 
-![alt text](https://github.com/Laureano55/ChatBot-HackatonIA/blob/a5db64b8908e5c2e947ba002f86b13ef84b57b40/static/sophia-logo.png)
+![alt text](https://github.com/Laureano55/ChatBot-HackatonIA/blob/c8f8afa5f23a9c3af549cf0ea02038aa84866477/static/sophia-logo-dark.png)
 
 Para usar este projecto hay que instalar lsa librerias necesarias que se encuentran en el archivo "requirements.txt", para realizar la instalación, simplemente hay que colocar en consola el siguiente comando:
 `pip install -r requirements.txt`
