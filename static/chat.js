@@ -6,8 +6,13 @@ document.addEventListener("DOMContentLoaded", function() {
         var messagesContainer = document.getElementById("messages");
         var userMessageContainer = document.createElement("div");
         userMessageContainer.textContent = message;
+        userMessageContainer.style.marginTop = "10px";
+        userMessageContainer.classList.add("user-message");
         messagesContainer.appendChild(userMessageContainer);
         
+        // Scroll to the bottom
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
         // Clear the input field
         document.getElementById("message").value = "";
 
@@ -19,12 +24,34 @@ document.addEventListener("DOMContentLoaded", function() {
             },
             body: JSON.stringify({ message: message })
         })
-        .then(response => response.json())
+        .then(response => {
+            if (response.status === 429) {
+                throw new Error("Too many requests. Please try again later.");
+            }
+            return response.json();
+        })
         .then(data => {
             // Display the AI's response
             var aiMessageContainer = document.createElement("div");
             aiMessageContainer.textContent = data.messages[data.messages.length - 1];
+            aiMessageContainer.style.marginTop = "10px";
+            aiMessageContainer.classList.add("ai-message");
             messagesContainer.appendChild(aiMessageContainer);
+            
+            // Scroll to the bottom
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        })
+        .catch(error => {
+            // Display the error message in red
+            var errorMessageContainer = document.createElement("div");
+            errorMessageContainer.textContent = error.message;
+            errorMessageContainer.style.color = "red";
+            errorMessageContainer.style.marginTop = "10px";
+            errorMessageContainer.classList.add("ai-message");
+            messagesContainer.appendChild(errorMessageContainer);
+            
+            // Scroll to the bottom
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
         });
     }
 
