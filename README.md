@@ -5,3 +5,5 @@ Este ha de rebajar la carga laboral de aquellos que reciben una magna cantidad d
 Un chat en el que se podrán ver los costos, procesos, requisitos, horarios y más para completar este proceso de manera gratificante.
 
 Un trabajo que por mentes humanas antes realizado, ahora se podrá obtener el mismo beneficio con tan solo un click. Estamos en la era digital y nuestro trabajo ahora es entrar en la adaptación.
+
+![alt text](https://github.com/Laureano55/ChatBot-HackatonIA/blob/a5db64b8908e5c2e947ba002f86b13ef84b57b40/static/sophia-logo.png)
