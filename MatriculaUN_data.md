@@ -754,7 +754,7 @@ Las oportunidades de intercambio cultural están disponibles a través de:
 - Asociaciones y clubes estudiantiles enfocados en la cultura y la internacionalización.
 
 ## ¿Dónde se encuentra "cualquier lugar de la univerdad"?
-¡Aquí tienes un mapa de la universidad para ubicarte! ¡El lugar que buscas es el número (buscar en "números de los lugares en el mapa")!
+¡Aquí tienes un mapa de la universidad para ubicarte! "https://www.uninorte.edu.co/web/vi-congreso-colombiano-de-filosofia/nuestro-campus" ¡El lugar que buscas es el número: !
 
 ## Números de los lugares en el mapa
 

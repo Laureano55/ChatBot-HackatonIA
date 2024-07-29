@@ -45,13 +45,14 @@ def send_message():
         \n Pregunta del usuario:\n{message}"""
 
         response = model.generate_content(prompt)
-
-        if response.text.split()[0] == "getimage":
-
-            images()
-
+        answer = response.text
+        if answer.split()[0] == "getimage":
+            answer = ' '.join(answer.split()[1:])
+            # Rejoin the words, excluding the first one
+          #  images()
+        
         messages.append(message)
-        messages.append(response.text)
+        messages.append(answer)
         
         return jsonify(messages=messages)
     except google.api_core.exceptions.ResourceExhausted:
