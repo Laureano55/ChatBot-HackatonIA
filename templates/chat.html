@@ -8,10 +8,18 @@
 </head>
 <body>
     <div id="title">
-        <img src="{{ url_for('static', filename='sophia-logo.png') }}" alt="Sophia Logo" id="sophia-logo">
+        <img id="sophia-logo" 
+        src="{{ url_for('static', filename='sophia-logo.png') }}" 
+        data-dark-mode-src="{{ url_for('static', filename='sophia-logo-dark.png') }}" />
     </div>
     <div id="chat-container">
         <div id="messages"></div>
+        <div id="dark-mode-switch">
+            <label class="switch">
+                <input type="checkbox" id="darkModeToggle">
+                <span class="slider round"></span>
+            </label>
+        </div>
         <div id="input-and-button">
             <input type="text" id="message" placeholder="Escribe tu mensaje aquí...">
             <button id="sendButton">Enviar</button>

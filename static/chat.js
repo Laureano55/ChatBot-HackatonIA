@@ -56,3 +56,15 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const darkModeToggle = document.getElementById("darkModeToggle");
+    const logo = document.getElementById("sophia-logo");
+    const darkModeLogo = logo.getAttribute('data-dark-mode-src');
+    const lightModeLogo = logo.src;
+
+    darkModeToggle.addEventListener("change", function() {
+        document.body.classList.toggle("dark-mode", darkModeToggle.checked);
+        logo.src = darkModeToggle.checked ? darkModeLogo : lightModeLogo;
+    });
+});
