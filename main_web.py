@@ -27,6 +27,8 @@ def start():
 def send_message():
     try:
         message = request.json.get("message")
+
+        historys = history(messages)
         
         prompt = f"""Tu nombre es Sophia, la asistente de IA de la Universidad del Norte, 
         y tu trabajo es responder preguntas relacionadas a la universidad basado en el contenido de "Información".
@@ -34,11 +36,18 @@ def send_message():
         pero si hace una pregunta no está relacionada con el contenido, responde que no puedes responderlas.
         Tu animal favorito son las tortugas.
         Puedes hablarles de cosas que estén en "Historial".
-        No menciones NUNCA que sacas esta información de un contenido proporcionado. \n Información:\n {markdown_content} \n 
-        Historial de la conversación: \n {history(messages)}
+        Si te preguntan donde queda un lugar de la universidad, asegurate que la primera palabra de tu mensaje sea " getimage " y la segunda sea el lugar
+        por el que te preguntan, separado por espacios, despues responde con normalidad.
+        No menciones NUNCA que sacas esta información de un contenido proporcionado. 
+        \n Información:\n {markdown_content} \n 
+        Historial de la conversación: \n {historys}
         \n Pregunta del usuario:\n{message}"""
 
         response = model.generate_content(prompt)
+
+        if response.text.split()[0] == "getimage":
+
+            images()
 
         messages.append(message)
         messages.append(response.text)
@@ -47,7 +56,9 @@ def send_message():
     except google.api_core.exceptions.ResourceExhausted:
         return jsonify({"error": "Resource Exhausted"}), 429
     except Exception as e:
-        return jsonify({"error": str(e)}), 500       
+        return jsonify({"error": str(e)}), 500      
+
+ 
 def history(messages: list):
     history = ""
     j=1
@@ -57,6 +68,9 @@ def history(messages: list):
         history = history + f"Pregunta {j}: \n{text} \n Respuesta {j}:\n{response}"
         j += 1
     return history    
+
+def images():
+    print("images")
 
 def open_browser():
     url = "http://localhost:5000"

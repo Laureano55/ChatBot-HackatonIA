@@ -753,6 +753,9 @@ Las oportunidades de intercambio cultural están disponibles a través de:
 - Eventos culturales y ferias internacionales en el campus.
 - Asociaciones y clubes estudiantiles enfocados en la cultura y la internacionalización.
 
+## ¿Dónde se encuentra "cualquier lugar de la univerdad"?
+¡Aquí tienes un mapa de la universidad para ubicarte!
+
 ## ¿Dónde se encuentra el servicio de atención psicológica y qué servicios ofrecen?
 El servicio de atención psicológica se encuentra en la Oficina de Psicología y ofrece:
 - Consultas individuales y terapia psicológica.
