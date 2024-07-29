@@ -10,9 +10,9 @@ body {
 #title {
     width: 100%;
     text-align: center;
-    background-color: white; /* Optional: to ensure it stands out */
-    padding: 10px 0; /* Optional: for some spacing */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: for a subtle shadow effect */
+    background-color: white;
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: fixed;
     top: 0;
     z-index: 1000;
@@ -68,9 +68,9 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: white; /* Optional: to ensure it stands out */
-    padding: 10px; /* Optional: for some spacing */
-    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional: for a subtle shadow effect */
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -78,11 +78,11 @@ body {
 
 #message {
     flex: 1;
-    max-width: 600px; /* Set a maximum width for the input field */
-    margin-right: 10px; /* Optional: for some spacing between input and button */
+    max-width: 600px;
+    margin-right: 10px;
 }
 
 #sendButton {
     flex-shrink: 0;
-    width: 100px; /* Set a fixed width for the button */
+    width: 100px;
 }

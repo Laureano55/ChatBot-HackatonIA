@@ -48,8 +48,6 @@ def send_message():
         answer = response.text
         if answer.split()[0] == "getimage":
             answer = ' '.join(answer.split()[1:])
-            # Rejoin the words, excluding the first one
-          #  images()
         
         messages.append(message)
         messages.append(answer)
@@ -69,12 +67,7 @@ def history(messages: list):
         response = messages[i+1]
         history = history + f"Pregunta {j}: \n{text} \n Respuesta {j}:\n{response}"
         j += 1
-    return history    
-
-def images(response):
-    
-
-    return 
+    return history
 
 def open_browser():
     url = "http://localhost:5000"
